@@ -12,7 +12,7 @@ example:
 `node index.js 192.168.1.14 NOWTV 10000`
 
 Result:
-
+```
 Start parsing XML data
 VmPeak
 580972.00kB ┤                            ╭────╮
@@ -93,4 +93,4 @@ Threads
  12┼╯                             ╰╯ ╰
 ---------
 Done
-
+```
